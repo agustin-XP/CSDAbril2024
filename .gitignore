@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/Actions2
+/GitHubActions1
+/GitHubActions2
